@@ -1,4 +1,4 @@
-TITLE:Customer segmentation using data science README
+TITLE:Customer segmentation using data science
 
 This README provides instructions on how to run the customer segmentation code, as well as information about any dependencies required for the code to work correctly.
 
